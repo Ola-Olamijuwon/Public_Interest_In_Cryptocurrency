@@ -8,6 +8,7 @@ Crypto Library is an online learning platform that needs charts showing the sear
 •	Create charts that shows the search interest of the word Cryptocurrency, Bitcoin, Ethereum and Blockchain
 •	The first chart should show only Cryptocurrency and the second showing Bitcoin, Ethereum and Blockchain
 •	Make sure the chart matches the Crypto Library webpage UI
+
 ### Approach
 •	Data collection from Google
 •	Data Modelling
